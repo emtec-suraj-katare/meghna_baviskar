@@ -6,19 +6,19 @@ const CarProp = (props) => {
     return (
         <div>
             <ul>
-                <li> model:{cars.model}</li>
-                <li>company:{cars.company}</li>
-                <li>price:{cars.price}</li>
-                <li>configuration:
+                <li> Model:{cars.model}</li>
+                <li>Company:{cars.company}</li>
+                <li>Price:{cars.price}</li>
+                <li>Configuration:
                     <ul>
-                        <li>color: {cars.configuration.color}</li>
-                        <li>fuel: {cars.configuration.fuel}</li>
-                        <li>cylinder: {cars.configuration.cylinder}</li>
-                        <li>fuelTankCapacity:{cars.fuelTankCapacity}</li></ul></li>
-                    <li>mileage:
+                        <li>Color: {cars.configuration.color}</li>
+                        <li>Fuel: {cars.configuration.fuel}</li>
+                        <li>Cylinder: {cars.configuration.cylinder}</li>
+                        <li>FuelTankCapacity:{cars.fuelTankCapacity}</li></ul></li>
+                    <li>Mileage:
                         <ul>
-                            <li>city: {cars.configuration.mileage.city}</li>
-                            <li>highway:{cars.configuration.mileage.highway}</li>
+                            <li>City: {cars.configuration.mileage.city}</li>
+                            <li>Highway:{cars.configuration.mileage.highway}</li>
                         </ul></li>
             </ul>
         </div>

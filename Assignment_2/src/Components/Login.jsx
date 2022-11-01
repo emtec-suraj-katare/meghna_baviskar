@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import './CSS/form.css';
 
 const Login = () => {
   function Show() {
@@ -20,7 +21,7 @@ const Login = () => {
   return (
     <div className="m-3">
       <div className="m-3"><h1 align="center">Login Form</h1></div>
-      <div className="formSetup m-3">
+      <div className="form">
         <div className="mb-3">
           <label htmlFor="exampleInputEmail1" className="form-label">
             Email address

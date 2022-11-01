@@ -20,17 +20,22 @@ const Car = () => {
     }
     return (
         <div>
-            model:{Car.model}
-            company:{Car.company},
-            price:{Car.price},
-            configuration:
-            color: {Car.configuration.color},
-            fuel: {Car.configuration.fuel},
-            cylinder: {Car.configuration.cylinder},
-            fuelTankCapacity:{Car.fuelTankCapacity},
-            mileage:
-            city: {Car.configuration.mileage.city},
-            highway:{Car.configuration.mileage.highway}
+            <ul>
+                <li> Model:{cars.model}</li>
+                <li>Company:{cars.company}</li>
+                <li>Price:{cars.price}</li>
+                <li>Configuration:
+                    <ul>
+                        <li>Color: {cars.configuration.color}</li>
+                        <li>Fuel: {cars.configuration.fuel}</li>
+                        <li>Cylinder: {cars.configuration.cylinder}</li>
+                        <li>FuelTankCapacity:{cars.fuelTankCapacity}</li></ul></li>
+                <li>Mileage:
+                    <ul>
+                        <li>City: {cars.configuration.mileage.city}</li>
+                        <li>Highway:{cars.configuration.mileage.highway}</li>
+                    </ul></li>
+            </ul>
         </div>
     )
 }

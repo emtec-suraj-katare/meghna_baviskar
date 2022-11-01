@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import './CSS/form.css';
 
 const Registration = () => {
   function Show() {
@@ -46,7 +47,7 @@ const Registration = () => {
   return (
     <div className="m-3">
       <div className="m-3"><h1 align="center">Registration Form</h1></div>
-      <div className="formSetup m-3">
+      <div className="form">
         <div className="input-group mb-3">
           <span className="input-group-text">First Name</span>
           <input
