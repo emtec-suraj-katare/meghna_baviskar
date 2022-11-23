@@ -1,0 +1,11 @@
+C:\Users\Meghna.Baviskar\source\repos\NewProject\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Meghna.Baviskar\source\repos\NewProject\Calculator\bin\Debug\Calculator.exe
+C:\Users\Meghna.Baviskar\source\repos\NewProject\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Meghna.Baviskar\source\repos\NewProject\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Meghna.Baviskar\source\repos\NewProject\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Meghna.Baviskar\source\repos\NewProject\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\Calculator\obj\Debug\Calculator.exe
+C:\Users\Meghna.Baviskar\source\repos\NewProject\Calculator\obj\Debug\Calculator.pdb

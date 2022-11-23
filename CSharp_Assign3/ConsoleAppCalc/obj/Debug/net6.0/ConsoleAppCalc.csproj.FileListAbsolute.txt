@@ -1,0 +1,15 @@
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\bin\Debug\net6.0\ConsoleAppCalc.exe
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\bin\Debug\net6.0\ConsoleAppCalc.deps.json
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\bin\Debug\net6.0\ConsoleAppCalc.runtimeconfig.json
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\bin\Debug\net6.0\ConsoleAppCalc.dll
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\bin\Debug\net6.0\ConsoleAppCalc.pdb
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.csproj.AssemblyReference.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.AssemblyInfoInputs.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.AssemblyInfo.cs
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.csproj.CoreCompileInputs.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.dll
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\obj\Debug\net6.0\refint\ConsoleAppCalc.dll
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.pdb
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\obj\Debug\net6.0\ConsoleAppCalc.genruntimeconfig.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\ConsoleAppCalc\obj\Debug\net6.0\ref\ConsoleAppCalc.dll
