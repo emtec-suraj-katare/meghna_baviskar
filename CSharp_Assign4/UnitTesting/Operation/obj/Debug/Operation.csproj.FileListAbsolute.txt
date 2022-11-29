@@ -1,0 +1,6 @@
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\Operation\bin\Debug\Operation.dll
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\Operation\bin\Debug\Operation.pdb
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\Operation\obj\Debug\Operation.csproj.AssemblyReference.cache
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\Operation\obj\Debug\Operation.csproj.CoreCompileInputs.cache
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\Operation\obj\Debug\Operation.dll
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\Operation\obj\Debug\Operation.pdb

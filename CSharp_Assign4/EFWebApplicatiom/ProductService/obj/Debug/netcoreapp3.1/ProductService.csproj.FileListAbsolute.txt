@@ -1,0 +1,15 @@
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\bin\Debug\netcoreapp3.1\ProductService.deps.json
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\bin\Debug\netcoreapp3.1\ProductService.dll
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\bin\Debug\netcoreapp3.1\ProductService.pdb
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\bin\Debug\netcoreapp3.1\ProductDataAccess.dll
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\bin\Debug\netcoreapp3.1\ProductRest.dll
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\bin\Debug\netcoreapp3.1\ProductDataAccess.pdb
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\bin\Debug\netcoreapp3.1\ProductRest.pdb
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\obj\Debug\netcoreapp3.1\ProductService.csproj.AssemblyReference.cache
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\obj\Debug\netcoreapp3.1\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\obj\Debug\netcoreapp3.1\ProductService.AssemblyInfoInputs.cache
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\obj\Debug\netcoreapp3.1\ProductService.AssemblyInfo.cs
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\obj\Debug\netcoreapp3.1\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\obj\Debug\netcoreapp3.1\ProductService.csproj.CopyComplete
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\obj\Debug\netcoreapp3.1\ProductService.dll
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductService\obj\Debug\netcoreapp3.1\ProductService.pdb

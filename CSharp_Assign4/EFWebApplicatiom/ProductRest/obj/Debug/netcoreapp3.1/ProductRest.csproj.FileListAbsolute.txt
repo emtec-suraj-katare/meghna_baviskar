@@ -1,0 +1,10 @@
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductRest\bin\Debug\netcoreapp3.1\ProductRest.deps.json
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductRest\bin\Debug\netcoreapp3.1\ProductRest.dll
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductRest\bin\Debug\netcoreapp3.1\ProductRest.pdb
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductRest\obj\Debug\netcoreapp3.1\ProductRest.csproj.AssemblyReference.cache
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductRest\obj\Debug\netcoreapp3.1\ProductRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductRest\obj\Debug\netcoreapp3.1\ProductRest.AssemblyInfoInputs.cache
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductRest\obj\Debug\netcoreapp3.1\ProductRest.AssemblyInfo.cs
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductRest\obj\Debug\netcoreapp3.1\ProductRest.csproj.CoreCompileInputs.cache
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductRest\obj\Debug\netcoreapp3.1\ProductRest.dll
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\ProductRest\obj\Debug\netcoreapp3.1\ProductRest.pdb
