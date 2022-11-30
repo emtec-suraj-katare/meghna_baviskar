@@ -1,0 +1,12 @@
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\DatabaseProject\bin\Debug\net6.0\DatabaseProject.deps.json
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\DatabaseProject\bin\Debug\net6.0\DatabaseProject.dll
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\DatabaseProject\bin\Debug\net6.0\DatabaseProject.pdb
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.AssemblyReference.cache
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\DatabaseProject\obj\Debug\net6.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfoInputs.cache
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfo.cs
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\DatabaseProject\obj\Debug\net6.0\DatabaseProject.dll
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\DatabaseProject\obj\Debug\net6.0\refint\DatabaseProject.dll
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\DatabaseProject\obj\Debug\net6.0\DatabaseProject.pdb
+C:\Users\Meghna.Baviskar\Desktop\AssignmentC#\DatabaseProject\obj\Debug\net6.0\ref\DatabaseProject.dll
